@@ -40,7 +40,7 @@ Finding creative solutions to problems is something I have always enjoyed. As a 
   [![Github Actions](https://img.shields.io/badge/-Github_Actions-9F0FCA?style=flat-square&logo=github-actions&logoColor=white)](https://github.com/features/actions)
   [![Canva](https://img.shields.io/badge/-Canva-0FCA36?style=flat-square&logo=Canva&logoColor=white)](https://www.canva.com/)
   [![MySQL](https://img.shields.io/badge/-MYSQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://www.mysql.com/)
-  [![Google Cloud Platform](https://img.shields.io/badge/-Google_Cloud_Platform-D6B433?style=flat-square&logo=google-cloud&logoColor=blue)](https://cloud.google.com/)
+  [![Google Cloud Platform](https://img.shields.io/badge/-Google_Cloud_Platform-D6B433?style=flat-square&logo=google-cloud&logoColor=green)](https://cloud.google.com/)
 
 ### 📊 Github Stats
 <a href="https://github.com/Parthasarathy-B"><img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Parthasarathy-B&title_color=FA8C04&icon_color=CC5160&text_color=949CA5&bg_color=00000000&layout=compact&count_private=true&show_icons=true&include_all_commits=true" height='170px'/></a>
