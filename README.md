@@ -10,9 +10,7 @@
 Finding creative solutions to problems is something I have always enjoyed. As a kid I loved tinkering with things that were broken, figuring out how they worked, and fixing them again. When I finished high school, I knew exactly what I wanted my career to be.
 <br>
 <!-- Custom Image.. Beware the width -->
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" width="300px"/>
-<br>
-<br>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" width="600px"/>
 
 ### 🧐 More About Me:
 
