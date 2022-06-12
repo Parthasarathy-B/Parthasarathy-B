@@ -2,6 +2,8 @@
 ![Profile Last Updated](https://img.shields.io/github/last-commit/parthasarathy-b/parthasarathy-b?label=Profile%20last%20updated&style=flat-square)
 [![Twitter Follow](https://img.shields.io/twitter/follow/__Parthasarathy?style=social)](https://twitter.com/__Parthasarathy)
 <a href="mailto:parthasarathy13723@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-parthasarathy13723@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<br>
+<br>
 <a href="https://t.me/Parthasarathy55/"><img src="assets/Telegram.svg" alt="Telegram" align="right" height='40px'/></a>
 <a href="https://www.linkedin.com/in/parthasarathy-b-9b671321a/"><img src="assets/linkedin.svg" alt="linkedin" align="right" height='40px'/></a>
 
