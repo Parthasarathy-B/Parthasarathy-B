@@ -11,8 +11,8 @@ Finding creative solutions to problems is something I have always enjoyed. As a 
 <br>
 <!-- Custom Image.. Beware the width -->
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" width="300px"/>
-
-
+<br>
+<br>
 
 ### 🧐 More About Me:
 
