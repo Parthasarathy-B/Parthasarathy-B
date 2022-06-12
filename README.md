@@ -2,8 +2,8 @@
 ![Profile Last Updated](https://img.shields.io/github/last-commit/parthasarathy-b/parthasarathy-b?label=Profile%20last%20updated&style=flat-square)
 [![Twitter Follow](https://img.shields.io/twitter/follow/__Parthasarathy?style=social)](https://twitter.com/__Parthasarathy)
 <a href="mailto:parthasarathy13723@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-parthasarathy13723@gmail.com-blue?style=flat-square&logo=gmail"></a>
-<a href="https://t.me/Parthasarathy55/"><img src="assets/Telegram.svg" alt="Telegram" align="right" height='24px'/></a>
-<a href="https://www.linkedin.com/in/parthasarathy-b-9b671321a/"><img src="assets/linkedin.svg" alt="linkedin" align="right" height='24px'/></a>
+<a href="https://t.me/Parthasarathy55/"><img src="assets/Telegram.svg" alt="Telegram" align="right" height='40px'/></a>
+<a href="https://www.linkedin.com/in/parthasarathy-b-9b671321a/"><img src="assets/linkedin.svg" alt="linkedin" align="right" height='40px'/></a>
 
 ## Hey 👋, I'm **PARTHASARATHY**
 </h1>
@@ -41,8 +41,7 @@ Finding creative solutions to problems is something I have always enjoyed. As a 
   [![Google Cloud Platform](https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
 
 ### 📊 Github Stats
-<a href="https://github.com/Parthasarathy-B"><img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Parthasarathy-B&title_color=FA8C04&icon_color=CC5160&text_color=949CA5&bg_color=00000000&layout=compact&count_private=true&show_icons=true&include_all_commits=true" height='170px'/></a>&ensp; &ensp;
-
+<a href="https://github.com/Parthasarathy-B"><img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Parthasarathy-B&title_color=FA8C04&icon_color=CC5160&text_color=949CA5&bg_color=00000000&layout=compact&count_private=true&show_icons=true&include_all_commits=true" height='170px'/></a>
 
 <a href="https://github.com/Parthasarathy-B"><img align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthasarathy-B&title_color=FA8C04&icon_color=CC5160&text_color=949CA5&bg_color=00000000&layout=compact&show_icons=false&hide=Jupyter%20Notebook" height='170px'/></a>
 
