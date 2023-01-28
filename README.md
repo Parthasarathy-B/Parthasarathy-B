@@ -47,20 +47,3 @@ Finding creative solutions to problems is something I have always enjoyed. As a 
 
 <a href="https://github.com/Parthasarathy-B"><img align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthasarathy-B&title_color=FA8C04&icon_color=CC5160&text_color=949CA5&bg_color=00000000&layout=compact&show_icons=false&hide=Jupyter%20Notebook" height='170px'/></a>
 
----
-<!-- ## Support me
-If you like what I do, maybe consider buying me a ~~coffee/tea~~ snack🥺👉👈
-
-<p align="center">
-  <a href="https://www.patreon.com/" target="_blank">
-    <img width="18%" alt="Check my Patreon" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-patreon.png"/>
-  </a>
-  <a href="https://www.paypal.com" target="_blank">
-      <img width="18%" alt="Donate with Paypal" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-paypal.png"/>
-  </a>
-  <a href="https://www.buymeacoffee.com/" target="_blank">
-      <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
-  </a>
-</p> -->
-
-<!-- 🙌Feel free to use the badges or images.. -->
